@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+peft
+accelerate
+trl
+rouge-score
+bert-score
+huggingface-hub
+python-dotenv
